@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dgeorgiev\\Desktop\\P01_StudentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6786A93E-3580-40A8-8FBC-B26261F8AB98}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\dgeorgiev\\desktop\\p01_studentsystem\\p01_studentsystem\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786A93E-3580-40A8-8FBC-B26261F8AB98}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786A93E-3580-40A8-8FBC-B26261F8AB98}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\dgeorgiev\\desktop\\p01_studentsystem\\p01_studentsystem\\migrations\\20240625165030_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786A93E-3580-40A8-8FBC-B26261F8AB98}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\migrations\\20240625165030_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786A93E-3580-40A8-8FBC-B26261F8AB98}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\dgeorgiev\\desktop\\p01_studentsystem\\p01_studentsystem\\data\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786A93E-3580-40A8-8FBC-B26261F8AB98}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\data\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240625165030_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\dgeorgiev\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240625165030_Initial.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\Migrations\\20240625165030_Initial.cs",
+              "ToolTip": "C:\\Users\\dgeorgiev\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240625165030_Initial.cs",
+              "RelativeToolTip": "P01_StudentSystem\\Migrations\\20240625165030_Initial.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:33:02.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\dgeorgiev\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Data\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\Data\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\dgeorgiev\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Data\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "P01_StudentSystem\\Data\\Models\\StudentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:05:33.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\dgeorgiev\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Data\\StudentSystemContext.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\Data\\StudentSystemContext.cs",
+              "ToolTip": "C:\\Users\\dgeorgiev\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Data\\StudentSystemContext.cs",
+              "RelativeToolTip": "P01_StudentSystem\\Data\\StudentSystemContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:05:33.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
